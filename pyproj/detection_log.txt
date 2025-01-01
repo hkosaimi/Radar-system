@@ -1,0 +1,3 @@
+Total detections: 0
+Total detections: 78
+Total detections: 94
